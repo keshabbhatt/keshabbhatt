@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Keshab Bhatt</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F72798&center=true&vCenter=true&width=435&lines=Frontend+Dev,+AI learner,+Problem+Solver;Building+Room+Finder+and+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F72798&center=true&vCenter=true&width=435&lines=Frontend+Dev,+AIlearner,+Problem+Solver;Building+Room+Finder+and+AI+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
